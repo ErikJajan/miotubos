@@ -1,0 +1,11 @@
+{
+  "seed": 2026,
+  "val_fraction": 0.2,
+  "original_groups": 31,
+  "train_groups": 26,
+  "val_groups": 5,
+  "exact_pairs": 13,
+  "near_pairs": 0,
+  "cross_pairs": 0,
+  "train_only_group": "origen-no-confirmado"
+}

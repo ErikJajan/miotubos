@@ -1,0 +1,31 @@
+{
+  "pr_auc": 0.04293206121701828,
+  "roc_auc": 0.6938915781772986,
+  "prevalence": 0.01836750820171855,
+  "precision_target": 0.8,
+  "recall_at_precision_080": null,
+  "threshold": 15,
+  "precision": 0.06648444806858882,
+  "recall": 0.25823346823446724,
+  "predicted_positive": 21928241,
+  "criterion": "maximo Dice en validacion",
+  "dice": 0.10574414743646492,
+  "iou": 0.05582358227551954,
+  "confusion": [
+    [
+      281253758,
+      20470354
+    ],
+    [
+      4187729,
+      1457887
+    ]
+  ],
+  "max_precision": 0.06920611983370574,
+  "variant": "absoluto",
+  "train_pr_auc": {
+    "claro": 0.024017898920563836,
+    "oscuro": 0.03390114352321013,
+    "absoluto": 0.0407972201023801
+  }
+}

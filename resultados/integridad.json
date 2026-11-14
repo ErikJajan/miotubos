@@ -1,0 +1,15 @@
+{
+  "images": 306,
+  "height": 1944,
+  "width": 2592,
+  "instances": 2118,
+  "extra_yolo": 12,
+  "yolo_count_mismatches": 28,
+  "irregular_yolo_polygons": 30,
+  "missing_overlays": 0,
+  "unknown_origin": 52,
+  "exact_pairs_with_different_masks": 13,
+  "exact_mask_iou_min": 0.1461607017214691,
+  "exact_mask_iou_max": 0.6069663067516586,
+  "exact_pairs_val": 0
+}

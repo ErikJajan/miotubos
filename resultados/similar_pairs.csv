@@ -1,0 +1,14 @@
+image_a,image_b,exact,dhash_distance
+images/09195104-cell21.png,images/429ecf67-cell21.png,True,0
+images/196ffab0-cell38.png,images/634a6598-cell38.png,True,0
+images/76b4d449-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_03_Best.png,images/87d4c6f1-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_03_Best.png,True,0
+images/0f0704fc-cell8.png,images/898190c6-cell8.png,True,0
+images/10f23e6d-cell32.png,images/8aaf4f2a-cell32.png,True,0
+images/2b70bcae-cell1.png,images/922a7a35-cell1.png,True,0
+images/0108f6b1-cell28.png,images/a5750420-cell28.png,True,0
+images/09195104-cell21.png,images/c264d669-cell21.png,True,0
+images/429ecf67-cell21.png,images/c264d669-cell21.png,True,0
+images/e0ba335d-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_04_Best.png,images/ef592a8c-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_04_04_Best.png,True,0
+images/141653d6-cell9.png,images/ef706849-cell9.png,True,0
+images/89612d35-cell2.png,images/f2c7a99a-cell2.png,True,0
+images/d5456920-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_03_03_Best.png,images/f6edfb6d-eebfb204-b362-4bb2-8684-6dc0c6a18f99_A2_03_03_Best.png,True,0

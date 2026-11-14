@@ -1,0 +1,7 @@
+/vt/
+/subset_10GB/
+/.local/
+/tmp/
+/.venv/
+__pycache__/
+.ipynb_checkpoints/
