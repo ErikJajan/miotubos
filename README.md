@@ -4,6 +4,13 @@ El notebook [eda_miotubos.ipynb](eda_miotubos.ipynb) contiene el análisis
 exploratorio, la auditoría de fuga y los resultados de la línea base clásica.
 El [reporte](output/pdf/reporte_miotubos.pdf) resume los hallazgos.
 
+La segunda etapa compara segmentación semántica con CNN y U-Net en el
+[notebook ejecutado](segmentacion_miotubos_semana2.ipynb) y el
+[reporte de validación y prueba](output/pdf/reporte_miotubos_semana2.pdf).
+Usa el [manifiesto fijo de particiones](resultados/particiones_miotubos.csv).
+Para ejecutar la segunda etapa instala también `torch`, `opencv-python` y
+`matplotlib` en el mismo entorno.
+
 ## Reproducir el notebook
 
 1. Coloca los datos con la estructura `vt/vt/{images,masks_png,labels,coco,verification}`.
